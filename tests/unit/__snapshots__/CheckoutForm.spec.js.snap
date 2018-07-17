@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product.vue matches snapshot 1`] = `
+<div>
+    <img src="cube.jpg">
+    <h1>Name: Cube</h1>
+    <h3>Price: £4.99</h3>
+    <p>Description: Cube Text</p>
+    <button>Add to Basket</button>
+</div>
+`;

@@ -1,0 +1,62 @@
+[
+    {
+      "id": "0001",
+      "name": "X Cube",
+      "price": 20.99,
+      "currency": "£",
+      "image": "https://cdn.shopify.com/s/files/1/0839/5903/products/696859327902_1_fe902232-a77c-4a92-9083-0723b41810da.jpeg?v=1520339752",
+      "short_desc": "X Cube",
+      "long_desc": "The X-Cube is a shape-shifting, X-shaped cuboid.",
+      "available": true
+    },
+    {
+      "id": "0002",
+      "name": "Rubiks Cube",
+      "price": 6.99,
+      "currency": "£",
+      "image": "https://i5.walmartimages.com/asr/86ac4beb-e601-4eb1-a526-550592eaafa7_1.660c11a37444d497129695352b40b2a2.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+      "short_desc": "Rubiks Cube",
+      "long_desc": "Rubik's Cube is a 3-D combination puzzle invented in 1974.",
+      "available": true
+    },
+    {
+      "id": "0003",
+      "name": "Curvy Copter Cube",
+      "price": 11.99,
+      "currency": "£",
+      "image": "https://i1100.photobucket.com/albums/g410/teslandgauss/speed%20cube/lanlan/butterfly/1_zps10adc148.jpg",
+      "short_desc": "Curvy Copter Cube",
+      "long_desc": "he Lanlan Curvy Copter, is a beautiful edge turning cube.",
+      "available": true
+    },
+    {
+      "id": "0001",
+      "name": "X Cube",
+      "price": 20.99,
+      "currency": "£",
+      "image": "https://cdn.shopify.com/s/files/1/0839/5903/products/696859327902_1_fe902232-a77c-4a92-9083-0723b41810da.jpeg?v=1520339752",
+      "short_desc": "X Cube",
+      "long_desc": "The X-Cube is a shape-shifting, X-shaped cuboid.",
+      "available": false
+    },
+    {
+      "id": "0002",
+      "name": "Rubiks Cube",
+      "price": 6.99,
+      "currency": "£",
+      "image": "https://i5.walmartimages.com/asr/86ac4beb-e601-4eb1-a526-550592eaafa7_1.660c11a37444d497129695352b40b2a2.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+      "short_desc": "Rubiks Cube",
+      "long_desc": "Rubik's Cube is a 3-D combination puzzle invented in 1974.",
+      "available": false
+    },
+    {
+      "id": "0003",
+      "name": "Curvy Copter Cube",
+      "price": 11.99,
+      "currency": "£",
+      "image": "https://i1100.photobucket.com/albums/g410/teslandgauss/speed%20cube/lanlan/butterfly/1_zps10adc148.jpg",
+      "short_desc": "Curvy Copter Cube",
+      "long_desc": "he Lanlan Curvy Copter, is a beautiful edge turning cube.",
+      "available": false
+    }
+]
